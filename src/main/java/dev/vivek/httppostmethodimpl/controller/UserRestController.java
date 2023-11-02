@@ -1,4 +1,4 @@
-package dev.vivek.httppostmethodimpl.dev.vivek.bindings.dev.vivek.controller;
+package dev.vivek.httppostmethodimpl.controller;
 
 import dev.vivek.httppostmethodimpl.dev.vivek.bindings.User;
 import org.springframework.http.ResponseEntity;
